@@ -1,0 +1,33 @@
+Book Sequence
+=============
+Rino Jose <rjose@ejorp.com>
+v0.1, April 30, 2013: Initial version
+
+The following is the book sequence that I've followed to come up to speed on
+math and computer science:
+
+- 5 Elements of Critical Thinking
+- Out of Their Minds: Lives and Discoveries of 15 Great Computer Scientists
+- Brain Rules
+- Statistics
+- Modern Fortran Explained
+- Assembly Language Step-by-Step
+- Professional Assembly Language
+- K&R
+- Effective C++
+- TAOCP Vol 1
+- Calculus with Analytic Geomtery
+- TAOCP Vol 2
+- How to Solve it
+- Design and Implementation of FreeBSD
+- Expert C Programming
+- SICP
+- Mythical Man Month
+- Network Programming
+- Programming Pthreads
+- Code Complete 2
+- Programming Lua
+- TAOCP Vol 3
+- Re-read: 5 Elements of Critical Thinking
+
+- The AWK Programming Language

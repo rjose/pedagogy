@@ -1,0 +1,31 @@
+Software Approach
+=================
+Rino Jose <rjose@ejorp.com>
+v0.1, April 30, 2013: Initial version
+
+Freewriting
+-----------
+The main thing we need to do is to think through things first. We need to do
+upfront design. We need to document our thoughts. We need to make sure that we
+try to get things to work the first time as much as possible. If things don't
+work the first time, we should ask ourselves why. This should be a continuous
+process.
+
+I should keep a log of what I tried to write and what went wrong with it. If I
+find a bug in something later, I should ask the same question. Ideally, I'd
+start creating a database and a history about myself and how I write code.
+
+We need to write small chunks of code that work right the first time. Over time,
+we should try to increase the size of the chunks of code we write.
+
+I want to write everything in C. This is so we get the best possible
+performance. If we need to prototype an algorithm, it's OK if we write this in
+Python, but this should be thrown away afterwards. The actual code should be in
+C.
+
+We need to tame complexity. We need to keep things from combinatorially
+exploding. We need to be able reason more about the code that we write.
+
+Everything should be documented in text. We should use text diagrams.
+
+I need to get good at using make (or scons) and at using gdb.
