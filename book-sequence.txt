@@ -29,5 +29,6 @@ math and computer science:
 - Programming Lua
 - TAOCP Vol 3
 - Re-read: 5 Elements of Critical Thinking
-
 - The AWK Programming Language
+
+- Combinatorial Optimization: Algorithms and Complexity
