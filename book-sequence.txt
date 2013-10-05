@@ -30,5 +30,21 @@ math and computer science:
 - TAOCP Vol 3
 - Re-read: 5 Elements of Critical Thinking
 - The AWK Programming Language
+- Mastering Algorithms in C
+- Navigation and Interaction
+- How to think like a great graphic designer
+- Beautiful Web Design
+- CSS Anthology
+- Interactive Data Visualization
+- ML for the Working Programmer
+- The Haskell School of Expression
+- ZeroMQ
+- (Current): A Book of Abstract Algebra
 
+
+- (In progress): Pearls of Functional Algorithm Design
+- (In progrss): Parallel and Concurrent Programming in Haskell
+
+- Starting Forth
+- Stanford Graphbase
 - Combinatorial Optimization: Algorithms and Complexity
